@@ -68,7 +68,7 @@ for i, job_title in enumerate(job_titles):
 plt.show()
 ```
 ### Results
-![Skills Demand](Assets\Skills_Demand_for_Data_roles.png)
+![Skills Demand](Assets\Skills_for_data_roles.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
