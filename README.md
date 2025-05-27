@@ -54,7 +54,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
-View my notebook with detailed steps here:[Skill Demand](C:\Users\User\OneDrive\Desktop\Python_Data_Project\3_Project\2_Skills_Count.ipynb)
+View my notebook with detailed steps here:[2 Skill Demand](3_Project/2_Skills_Count.ipynb)
 
 ### Visualize Data
 ```
@@ -83,7 +83,7 @@ plt.show()
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_Skill_Trend](3_Project\3_Skills_Trend.ipynb)
+View my notebook with detailed steps here: [3_Skill_Trend](3_Project/3_Skills_Trend.ipynb)
 
 ### Visualize Data
 ```
@@ -115,7 +115,7 @@ plt.show()
 
 To find out which roles and skills offer the highest pay, I focused only on jobs based in the United States and analyzed their median salaries. Before that, I examined the salary distributions for common data roles—such as Data Scientist, Data Engineer, and Data Analyst—to get a sense of which positions tend to earn more.
 
-You can view all the detailed steps in my notebook here:[4_Salary_Analysis](3_Project\4_Salary_Analysis.ipynb)
+You can view all the detailed steps in my notebook here:[4_Salary_Analysis](3_Project/4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 ```
@@ -171,7 +171,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 # 4. What are the most optimal skills to learn for Data Analysts?
 To determine the most valuable skills to learn—those that are both highly paid and widely sought after—I calculated each skill’s demand percentage along with its median salary. This helped me pinpoint the most optimal skills to focus on for career growth.
 
-You can check out the full breakdown in my notebook here: [5_Optimal_skills](3_Project\5_Optimal_Skills.ipynb)
+You can check out the full breakdown in my notebook here: [5_Optimal_skills](3_Project/5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 ```
